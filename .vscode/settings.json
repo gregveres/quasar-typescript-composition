@@ -1,0 +1,14 @@
+{
+  "vetur.experimental.templateInterpolationService": true,
+  "vetur.validation.template": false,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    {
+      "language": "vue",
+      "autoFix": true
+    }
+  ],
+  "i18n-ally.localesPaths": "src/i18n"
+}
